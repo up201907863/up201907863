@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, music and mild drinking
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me *Loading*
+- 📫 How to reach me */Loading/*
 
 <!---
 up201907863/up201907863 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
